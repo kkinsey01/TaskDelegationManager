@@ -1,0 +1,6 @@
+@TaskDelegationAPI_HostAddress = http://localhost:5259
+
+GET {{TaskDelegationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
